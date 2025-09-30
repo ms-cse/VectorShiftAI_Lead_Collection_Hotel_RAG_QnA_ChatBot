@@ -9,10 +9,6 @@
 - This app has been implemented using memory as streamed chat.
 
 
-### Access Link: 
-- <a href="https://app.vectorshift.ai/chatbots/deployed/67c68c5d9c30f658199082ca" target="_blank"><b>[Online Link]</b></a>
-
-
 ### Dataset:
 - PDF file (LLM Generated FAKE data for a hotel named Ocean Breeze Resort)
 
